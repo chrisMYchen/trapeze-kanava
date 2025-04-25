@@ -43,3 +43,13 @@ Categories with examples.
     *   What is your privacy policy?
 
 
+## Transfers
+- Scheduling (New & Existing)
+- Doctor line
+- Prescription refills
+- Hours/directions/fax
+- Billing
+- Clinical team (hidden from IVR)
+
+Here's their current IVR pre-recorded message:
+This call may be recorded for quality assurance. Thank you for calling Coastal Eye, where our mission is enhancing vision, enhancing life. To schedule an appointment, press one now, or feel free to text us at two zero three nine hundred four zero one one. You can also visit us online at coastal eyes surgeons dot com and click on book now. If you are a doctor or calling from a doctor's office, please press two. If you are in need of a prescription refill, please press three. For hours, directions, and fax number, please press four. For any billing related matters or questions, please press five. And for all other questions, please press six. Thank you for calling Coastal Eye, where our mission is enhancing vision, enhancing life.
